@@ -1,0 +1,5 @@
+This is a fun experiment I did to see how to generate a random password based on a few different variables.
+This uses mouse movement, pseudo-random times, and computer speed to generate a lot of garbage, then turn that garbage into
+characters for use as a quick password. 
+
+It is not to generate permanent passwords, but can be useful in generating a password which is one time use. 
